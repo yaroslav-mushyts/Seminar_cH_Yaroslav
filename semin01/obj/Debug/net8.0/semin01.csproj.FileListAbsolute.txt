@@ -1,0 +1,15 @@
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\obj\Debug\net8.0\semin01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\obj\Debug\net8.0\semin01.AssemblyInfoInputs.cache
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\obj\Debug\net8.0\semin01.AssemblyInfo.cs
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\obj\Debug\net8.0\semin01.csproj.CoreCompileInputs.cache
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\obj\Debug\net8.0\semin01.sourcelink.json
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\bin\Debug\net8.0\semin01.exe
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\bin\Debug\net8.0\semin01.deps.json
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\bin\Debug\net8.0\semin01.runtimeconfig.json
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\bin\Debug\net8.0\semin01.dll
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\bin\Debug\net8.0\semin01.pdb
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\obj\Debug\net8.0\semin01.dll
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\obj\Debug\net8.0\refint\semin01.dll
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\obj\Debug\net8.0\semin01.pdb
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\obj\Debug\net8.0\semin01.genruntimeconfig.cache
+C:\Users\swatw\OneDrive\Рабочий стол\Seminars\semin01\obj\Debug\net8.0\ref\semin01.dll
